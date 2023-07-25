@@ -2,6 +2,8 @@
 
 Supervised by Professor Boisvert and Professor Teixera-Dias.
 
+Built a program in C++ to computationally simulate the production of x-rays and their interactions with matter using the Monte Carlo method. The C++ library root was used to display histograms to visualize the outputs.
+
 Outputs
 -------
 
